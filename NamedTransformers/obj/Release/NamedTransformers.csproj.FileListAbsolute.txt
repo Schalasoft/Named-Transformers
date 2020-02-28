@@ -1,0 +1,5 @@
+C:\Users\cdoherty\Desktop\Named Transformers\NamedTransformers\bin\Release\Named Transformers.dll
+C:\Users\cdoherty\Desktop\Named Transformers\NamedTransformers\bin\Release\Named Transformers.pdb
+C:\Users\cdoherty\Desktop\Named Transformers\NamedTransformers\obj\Release\NamedTransformers.csproj.CoreCompileInputs.cache
+C:\Users\cdoherty\Desktop\Named Transformers\NamedTransformers\obj\Release\Named Transformers.dll
+C:\Users\cdoherty\Desktop\Named Transformers\NamedTransformers\obj\Release\Named Transformers.pdb
