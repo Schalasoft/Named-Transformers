@@ -10,3 +10,5 @@ NamedTransformers/obj/Release/NamedTransformers.csproj.FileListAbsolute.txt
 .vs/NamedTransformers/v16/.suo
 NamedTransformers/bin/Release/Named Transformers.pdb
 NamedTransformers/obj/Release/Named Transformers.pdb
+.vs/NamedTransformers/v16/Server/sqlite3/storage.ide
+.vs/NamedTransformers/v16/.suo
