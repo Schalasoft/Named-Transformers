@@ -63,6 +63,9 @@
     <Compile Include="NamedTransformers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\mod_info.yaml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>"..\..\Source\lib\pdb2mdb.exe" "$(TargetDir)$(TargetFileName)"

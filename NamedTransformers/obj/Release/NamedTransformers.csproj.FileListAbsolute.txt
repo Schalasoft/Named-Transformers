@@ -9,3 +9,8 @@ C:\Users\cdoherty\source\repos\NamedTransformers\NamedTransformers\obj\Release\N
 C:\Users\cdoherty\source\repos\NamedTransformers\NamedTransformers\obj\Release\Named Transformers.dll
 C:\Users\cdoherty\source\repos\NamedTransformers\NamedTransformers\obj\Release\Named Transformers.pdb
 C:\Users\cdoherty\source\repos\NamedTransformers\NamedTransformers\obj\Release\NamedTransformers.csprojAssemblyReference.cache
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\Named Transformers.dll
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\Named Transformers.pdb
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\NamedTransformers.csproj.CoreCompileInputs.cache
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\Named Transformers.dll
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\Named Transformers.pdb
