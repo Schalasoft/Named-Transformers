@@ -14,3 +14,6 @@ C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\
 C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\NamedTransformers.csproj.CoreCompileInputs.cache
 C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\Named Transformers.dll
 C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\Named Transformers.pdb
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\Properties\mod.yaml
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\Properties\mod_info.yaml
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\NamedTransformers.csprojAssemblyReference.cache
