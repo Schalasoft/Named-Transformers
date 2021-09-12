@@ -17,3 +17,6 @@ C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\
 C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\Properties\mod.yaml
 C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\Properties\mod_info.yaml
 C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\NamedTransformers.csprojAssemblyReference.cache
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\0Harmony.dll
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\bin\Release\0Harmony.xml
+C:\Users\Cian\Documents\GitHub\Named-Transformers\NamedTransformers\obj\Release\NamedTransformers.csproj.CopyComplete
